@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TastyCookiesClicker</string>
+    <string name="beginningText">Слабо добить 100 кликов?</string>
+    <string name="action_show_score">Покажи мой счет</string>
+    <string name="beginning_text_in_show_score">Плохо видишь? Не беда! Надеюсь, сейчас ты все разглядел</string>
+</resources>
